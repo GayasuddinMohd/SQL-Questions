@@ -1,10 +1,6 @@
-# SQL Questions
+## [Tesla Models](https://www.analystbuilder.com/questions/tesla-models-soJdJ)
 
-**Platform**: Analyst Builder  
-**Level**: Easy  
-**Question Title**: [Tesla Models](https://www.analystbuilder.com/questions/tesla-models-soJdJ)
-
-### Query
+**Query:**
 
 ```sql
 SELECT *
