@@ -1,5 +1,3 @@
-**Query:**
-
 ```sql
 SELECT *
 FROM (
