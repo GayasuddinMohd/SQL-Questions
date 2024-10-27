@@ -1,7 +1,5 @@
 ## [1.Tesla Models](https://www.analystbuilder.com/questions/tesla-models-soJdJ)
 
-**Query:**
-
 ```sql
 SELECT *
 FROM (
@@ -19,7 +17,6 @@ WHERE
 
 ## [Heart Attack Risk](https://www.analystbuilder.com/questions/heart-attack-risk) <!-- Replace with the correct link if available -->
 
-**Query:**
 
 ```sql
 SELECT *
