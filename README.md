@@ -16,6 +16,7 @@ WHERE
     profit = (SELECT MAX((car_price - production_cost) * cars_sold) FROM tesla_models);
 
 2. Heart Attack Risk
+
 SELECT *
 FROM patients
 WHERE age > 50 AND cholesterol >= 240 AND weight >= 200
@@ -23,7 +24,6 @@ ORDER BY cholesterol DESC;
 
 3.Apply Discount
 
- 
 SELECT COUNT(DISTINCT customer_id) AS discount_recipients
 FROM customers
 WHERE age > 65 OR total_purchase > 200;
