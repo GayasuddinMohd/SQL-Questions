@@ -1,4 +1,5 @@
 ```sql
+1. Tesla Models
 SELECT *
 FROM (
     SELECT 
@@ -13,6 +14,7 @@ FROM (
 WHERE 
     profit = (SELECT MAX((car_price - production_cost) * cars_sold) FROM tesla_models);
 
+2. Heart Attack Risk
 SELECT *
 FROM patients
 WHERE age > 50 AND cholesterol >= 240 AND weight >= 200
