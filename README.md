@@ -1,13 +1,10 @@
 # SQL Questions
 
-## Problem: Tesla Models
+**Platform**: Analyst Builder  
+**Level**: Easy  
+**Question Title**: [Tesla Models](https://www.analystbuilder.com/questions/tesla-models-soJdJ)
 
-[View Question on AnalystBuilder](https://www.analystbuilder.com/questions/tesla-models-soJdJ)
-
-### Objective
-Find the Tesla model with the highest profit, calculated as `(car_price - production_cost) * cars_sold`.
-
-### Solution
+### Query
 
 ```sql
 SELECT *
