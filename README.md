@@ -4,4 +4,5 @@
 
 1. Top store for movie sales    https://sqlpad.io/questions/1/top-store-for-movie-sales/
 2. Top 3 movie categories by sales   https://sqlpad.io/questions/2/top-3-movie-categories-by-sales/
-3. 
+3. Top 5 shortest movies https://sqlpad.io/questions/3/top-5-shortest-movies/
+
